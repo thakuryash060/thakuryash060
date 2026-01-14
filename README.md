@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yash Thakur
 
-<!--
-**thakuryash060/thakuryash060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech CSE (AIML) student at UPES Dehradun with a strong interest in Java, Python, and Machine Learning. I enjoy building practical projects that help me understand how software and intelligent systems work in the real world.
 
-Here are some ideas to get you started:
+University of Petroleum and Energy Studies (UPES)  
+Dehradun, Uttarakhand, India  
+Email: thakuryash060@gmail.com  
+LinkedIn: https://www.linkedin.com/in/yash-thakur-999064287/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+- Programming Languages: Java, Python, C  
+- Web Technologies: HTML, CSS, Flask  
+- Databases: MySQL, NoSQL  
+- Machine Learning & Data: Scikit-learn, TensorFlow, Pandas, NumPy  
+- Tools: Git, Docker, AWS EC2, Linux  
+
+## Featured Projects
+- **Stock Management System** – A Java-based CRUD application for managing stock operations  
+- **Medicine Inventory Management System** – A Java application for handling medicine stock and expiry tracking  
+- **Library Management System** – A role-based system built using Java Swing and MySQL  
+- **Sentiment Analysis System** – An NLP project using Python and Scikit-learn  
+
+I am continuously learning by working on hands-on projects and exploring new technologies to improve my skills and understanding.
