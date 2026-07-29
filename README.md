@@ -21,5 +21,6 @@ I enjoy building applications that combine solid software engineering with pract
 
 ## 📫 Connect
 
-* **Email:** [thakuryash060@gmail.com](mailto:thakuryash060@gmail.com)
-* **LinkedIn:** linkedin.com/in/thakuryash060
+- 📧 **Email:** [thakuryash060@gmail.com](mailto:thakuryash060@gmail.com)
+- 💼 **LinkedIn:** [Yash Thakur](https://www.linkedin.com/in/thakuryash060)
+- 💻 **GitHub:** [thakuryash060](https://github.com/thakuryash060)
