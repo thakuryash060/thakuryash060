@@ -1,25 +1,25 @@
-# Yash Thakur
+# Hi, I'm Yash Thakur 👋
 
-I am a B.Tech CSE (AIML) student at UPES Dehradun with a strong interest in Java, Python, and Machine Learning. I enjoy building practical projects that help me understand how software and intelligent systems work in the real world.
+I'm a **B.Tech Computer Science Engineering (AI & ML)** student at **UPES Dehradun** with an interest in **Software Development**, **Machine Learning**, and **Backend Development**.
 
-University of Petroleum and Energy Studies (UPES)  
-Dehradun, Uttarakhand, India  
-Email: thakuryash060@gmail.com  
-LinkedIn: https://www.linkedin.com/in/yash-thakur-999064287/
+I enjoy building applications that combine solid software engineering with practical machine learning solutions. Most of my work involves Java, Python, and Flask, and I'm always looking for opportunities to learn by building real-world projects.
 
----
+## 🛠️ Tech Stack
 
-## Technical Skills
-- Programming Languages: Java, Python, C  
-- Web Technologies: HTML, CSS, Flask  
-- Databases: MySQL, NoSQL  
-- Machine Learning & Data: Scikit-learn, TensorFlow, Pandas, NumPy  
-- Tools: Git, Docker, AWS EC2, Linux  
+* **Languages:** Java, Python, C
+* **Web:** HTML, CSS, Flask, REST APIs
+* **Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy, NLP
+* **Databases:** MySQL, MongoDB
+* **Tools:** Git, Docker, Linux, AWS EC2
 
-## Featured Projects
-- **Stock Management System** – A Java-based CRUD application for managing stock operations  
-- **Medicine Inventory Management System** – A Java application for handling medicine stock and expiry tracking  
-- **Library Management System** – A role-based system built using Java Swing and MySQL  
-- **Sentiment Analysis System** – An NLP project using Python and Scikit-learn  
+## 🚀 Projects
 
-I am continuously learning by working on hands-on projects and exploring new technologies to improve my skills and understanding.
+* **Crop Yield Prediction System** – Machine learning model for agricultural yield prediction.
+* **Library Management System** – Role-based desktop application built with Java Swing and MySQL.
+* **Medicine Inventory Management System** – Java application for medicine stock management and expiry tracking.
+* **Sentiment Analysis System** – NLP-based sentiment classifier using Python and Scikit-learn.
+
+## 📫 Connect
+
+* **Email:** [thakuryash060@gmail.com](mailto:thakuryash060@gmail.com)
+* **LinkedIn:** linkedin.com/in/thakuryash060
